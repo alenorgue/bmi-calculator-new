@@ -9,7 +9,14 @@ Queremos implementar una app que calcule el ídnice de masa corporal (IMC). Aunq
 1. Introduce la altura en cm
 2. Introduce el peso en kg
 3. Al hacer clic en _Compute BMI_ debe aparecer el IMC
-4. BONUS: Redondea a dos decimales el IMC
+4. También debería indicar mediante un mensaje de texto si es un peso normal según este baremo
+
+**Menos de 18.5** → Bajo peso  
+**18.5 - 24.9** → Peso normal  
+**25 - 29.9** → Sobrepeso  
+**30 o más** → Obesidad  
+
+BONUS: Redondea a dos decimales el IMC
 
 ## Créditos
 
